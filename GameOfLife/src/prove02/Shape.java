@@ -5,5 +5,5 @@ package prove02;
  * @see Creature
  */
 public enum Shape {
-	Circle, Square;
+	Circle, Square, Arc;
 }

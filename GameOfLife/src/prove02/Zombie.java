@@ -20,7 +20,7 @@ public class Zombie extends Creature implements Aggressor, Movable {
      * Creates a zombie with 1 health point.
      */
     public Zombie() {
-        _health = 1;
+        _health = 5;
     }
 
     public Shape getShape() { return _shape; }
@@ -38,7 +38,7 @@ public class Zombie extends Creature implements Aggressor, Movable {
      * @param target The {@link Creature} we've encountered.
      */
     public void attack(Creature target) {
-        if (target instanceof Animal) {
+        if (!(target instanceof Plant) && target != null) {
             target.takeDamage(10);
         }
     }

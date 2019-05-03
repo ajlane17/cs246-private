@@ -16,7 +16,7 @@ public class Plant extends Creature {
 	* Creates a plant with 1 health point.
 	*/
 	public Plant() {
-		_health = 1;
+		_health = 1000;
 	}
 	
 	// No javadocs are necessary for these methods because they will inherit the 

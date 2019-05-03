@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcd38ca3-0fb2-4d02-9e11-33abb522dba9" name="Default Changelist" comment="" />
+    <list default="true" id="dcd38ca3-0fb2-4d02-9e11-33abb522dba9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/GameOfLife.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/GameOfLife.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfLife.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GameOfLife.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Aggressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Aggressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Aware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Aware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Creature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/CreatureHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/CreatureHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Movable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Wolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prove02/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prove02/Zombie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/cryptography/NSALoginController.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/cryptography/NSALoginController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/cryptography/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/cryptography/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/cryptography/User.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/cryptography/User.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/cryptography/WeakPasswordException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/cryptography/WeakPasswordException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/cryptography/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/cryptography/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/cryptography/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/cryptography/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/cryptography/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/cryptography/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/prove-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/prove-01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/src/cryptography/NSALoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/src/cryptography/NSALoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/src/cryptography/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/src/cryptography/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/src/cryptography/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/src/cryptography/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prove-01/src/cryptography/WeakPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prove-01/src/cryptography/WeakPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teach-01/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../teach-01/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teach-01/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../teach-01/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teach-01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../teach-01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teach-01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../teach-01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teach-01/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../teach-01/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teach-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../teach-01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teach-01/src/helloworld/CircleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teach-01/src/helloworld/CircleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teach-01/src/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teach-01/src/helloworld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teach-01/teach-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../teach-01/teach-01.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,47 +80,145 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/prove02/Wolf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prove02/World.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="130" column="39" lean-forward="true" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prove02/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="58" column="44" lean-forward="true" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Zombie.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/World.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="453">
+                  <caret line="128" column="38" lean-forward="true" selection-start-line="128" selection-start-column="38" selection-end-line="128" selection-end-column="38" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Fairy.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Plant.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="217">
+                  <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Magical.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Aware.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" column="80" lean-forward="true" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Spawner.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Game.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="680">
+                  <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/CreatureHandler.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="202">
+                  <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Wolf.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="254">
+                  <caret line="102" selection-start-line="102" selection-end-line="102" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Animal.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/prove02/Shape.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -60,6 +228,17 @@
       <find>senseNei</find>
       <find>rand</find>
       <find>_rand</find>
+      <find>agreess</find>
+      <find>aggress</find>
+      <find>_creatures</find>
+      <find>attack</find>
+      <find>sense nie</find>
+      <find>plant</find>
+      <find>size</find>
+      <find>target</find>
+      <find>squ</find>
+      <find>square</find>
+      <find>Unicorn</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -68,23 +247,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/prove02/Movable.java" />
+        <option value="$PROJECT_DIR$/src/prove02/Spawner.java" />
+        <option value="$PROJECT_DIR$/src/prove02/Magical.java" />
         <option value="$PROJECT_DIR$/src/prove02/Zombie.java" />
-        <option value="$PROJECT_DIR$/src/prove02/World.java" />
         <option value="$PROJECT_DIR$/src/prove02/Wolf.java" />
+        <option value="$PROJECT_DIR$/src/prove02/CreatureHandler.java" />
+        <option value="$PROJECT_DIR$/src/prove02/Plant.java" />
+        <option value="$PROJECT_DIR$/src/prove02/Animal.java" />
+        <option value="$PROJECT_DIR$/src/prove02/Shape.java" />
+        <option value="$PROJECT_DIR$/src/prove02/Unicorn.java" />
+        <option value="$PROJECT_DIR$/src/prove02/World.java" />
         <option value="$PROJECT_DIR$/src/prove02/Game.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/prove02/Fairy.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2046" />
-    <option name="y" value="-8" />
+    <option name="x" value="2003" />
+    <option name="y" value="-12" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -94,6 +275,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,11 +298,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -149,11 +331,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556768113748</updated>
       <workItem from="1556768115359" duration="9984000" />
+      <workItem from="1556847126985" duration="12682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9984000" />
+    <option name="totallyTimeSpent" value="22666000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -167,38 +350,71 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="UI Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32936078" />
-      <window_info anchor="bottom" id="Dependency Viewer" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" x="1988" y="87" width="1736" height="856" id="DSM" type="FLOATING" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" x="1988" y="87" width="1736" height="856" id="DSM" order="5" type="FLOATING" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" x="1988" y="87" width="1736" height="856" id="DSM" order="5" type="FLOATING" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -227,13 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prove02/Movable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/prove02/Creature.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -241,72 +450,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prove02/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/prove02/Movable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prove02/Aware.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state relative-caret-position="168">
+          <caret line="858" column="12" selection-start-line="858" selection-start-column="12" selection-end-line="858" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prove02/Plant.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/awt/EventDispatchThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="176">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/locks/LockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="353" column="23" selection-start-line="353" selection-start-column="23" selection-end-line="353" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prove02/Zombie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prove02/CreatureHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="122" column="16" lean-forward="true" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prove02/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="62" column="30" lean-forward="true" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prove02/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="58" column="44" lean-forward="true" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prove02/World.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="130" column="39" lean-forward="true" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="39" />
+        <state relative-caret-position="272">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prove02/Wolf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+        <state relative-caret-position="254">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/CreatureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/Spawner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/Aware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="80" lean-forward="true" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/Magical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/Plant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/Fairy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="128" column="38" lean-forward="true" selection-start-line="128" selection-start-column="38" selection-end-line="128" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prove02/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
         </state>
       </provider>
     </entry>

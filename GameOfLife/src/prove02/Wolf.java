@@ -1,6 +1,7 @@
 package prove02;
 
 import java.awt.Color;
+import java.awt.Point;
 import java.util.Random;
 
 /**
@@ -12,10 +13,11 @@ import java.util.Random;
  * @see Creature
  */
 
-public class Wolf extends Creature implements Aggressor, Aware, Movable {
+public class Wolf extends Creature implements Aggressor, Aware, Movable, Spawner {
 
     Random _rand;
     int preferredDirection;
+    Boolean canSpawn = false;
     Shape _shape = Shape.Square;
     Color _color = new Color(80, 80, 80);
 
@@ -23,7 +25,7 @@ public class Wolf extends Creature implements Aggressor, Aware, Movable {
      * Creates a wolf with 1 health point.
      */
     public Wolf() {
-        _health = 1;
+        _health = 5;
         _rand = new Random();
         preferredDirection = _rand.nextInt(4);
     }
@@ -45,6 +47,9 @@ public class Wolf extends Creature implements Aggressor, Aware, Movable {
     public void attack(Creature target) {
         if (target instanceof Animal) {
             target.takeDamage(5);
+            if (!(target.isAlive())) {
+                this.canSpawn = true;
+            }
         }
     }
     /**
@@ -118,4 +123,20 @@ public class Wolf extends Creature implements Aggressor, Aware, Movable {
         // If we don't find any animals, keep moving the same direction
         } while (checkDirection != preferredDirection);
     }
+
+    /**
+     * Births a new wolf if its eaten.
+     */
+    public Creature spawnNewCreature() {
+        if (canSpawn) {
+            Wolf newWolf = new Wolf();
+            Point startPos = new Point((int) this.getLocation().getX() - 1, (int) this.getLocation().getY());
+            newWolf.setLocation(startPos);
+            this.canSpawn = false;
+            return newWolf;
+        }
+
+        return null;
+    }
+
 }

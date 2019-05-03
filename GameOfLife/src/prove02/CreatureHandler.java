@@ -1,5 +1,9 @@
 package prove02;
 
+import sun.security.pkcs11.wrapper.CK_CREATEMUTEX;
+
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.Random;
 import java.awt.Point;
 import java.util.List;
@@ -119,32 +123,70 @@ public class CreatureHandler
 		// Handle all our creature behaviors here. Since we don't know ahead of time
 		// which creatures implement which behaviors, we can use the instanceof keyword
 		// to see if a given instance implements a particular interface.
+
+		// We need to create a list to hold any additions to _creatures because we cannot
+		// add them while the list is being iterated, or else we'll get a
+		// "concurrentmodificationexception". Instead, we'll store them to add after the
+		// loop completes.
+		List<Creature> spawns = new ArrayList<>();
 		for(Creature c : _creatures) {
 				
-				// Skip dead creatures
-				if(!c.isAlive())
-					continue;
+			// Skip dead creatures
+			if(!c.isAlive())
+				continue;
 
-				if(c instanceof Aware) {
-					Creature above = getTarget(c, 0, -1);
-					Creature below = getTarget(c, 0, 1);
-					Creature left = getTarget(c, -1, 0);
-					Creature right = getTarget(c, 1, 0);
+			if(c instanceof Aware) {
+				Creature above = getTarget(c, 0, -1);
+				Creature below = getTarget(c, 0, 1);
+				Creature left = getTarget(c, -1, 0);
+				Creature right = getTarget(c, 1, 0);
 
-					Aware a = (Aware)c;
-					a.senseNeighbors(above, below, left, right);
-				}
-
-				if(c instanceof Movable) {
-					handleMove(c);
-				}
-				
-				if(c instanceof Aggressor) {
-					Creature target = getTarget(c, 0, 0);
-					Aggressor a = (Aggressor)c;
-					a.attack(target);
-				}
-				
+				Aware a = (Aware)c;
+				a.senseNeighbors(above, below, left, right);
 			}
+
+			if(c instanceof Movable) {
+				handleMove(c);
+			}
+
+			if(c instanceof Aggressor) {
+				Creature target = getTarget(c, 0, 0);
+				Aggressor a = (Aggressor)c;
+				a.attack(target);
+			}
+
+			// If Spawner returns a new creature add it to the spawns list
+			if(c instanceof Spawner) {
+				Spawner s = (Spawner)c;
+				Creature newCreature = s.spawnNewCreature();
+				if (newCreature != null) {
+					// Add the spawn to the spawns list for adding later
+					spawns.add(newCreature);
+				}
+			}
+
+			// Cast any spells
+			if (c instanceof Magical) {
+				Magical m = (Magical)c;
+				m.cast(_creatures);
+			}
+
+			// Age plants
+			if (c instanceof Plant) {
+				c.takeDamage(1);
+			}
+		}
+
+		// Clean up dead creatures
+		Iterator<Creature> iterator = _creatures.iterator();
+		while (iterator.hasNext()) {
+			Creature c = iterator.next();
+
+			if (!(c.isAlive())) {
+				iterator.remove();
+			}
+		}
+		// Add any spawns to the _creatures list
+		_creatures.addAll(spawns);
 	}
 }

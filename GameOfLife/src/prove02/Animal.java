@@ -20,7 +20,7 @@ public class Animal extends Creature implements Movable, Aggressor {
 	*/
 	public Animal() {
 		_rand = new Random();
-		_health = 1;
+		_health = 25;
 	}
 	
 	// No javadocs are necessary for these methods because they will inherit the 
@@ -49,6 +49,10 @@ public class Animal extends Creature implements Movable, Aggressor {
 		if(target instanceof Plant) {
 			target.takeDamage(1);
 			_health++;
+		}
+		// Let's give the animals a fighting chance
+		else if ((!(target instanceof Fairy)) && target != null) {
+			target.takeDamage(1);
 		}
 	}
 	

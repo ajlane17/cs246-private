@@ -37,7 +37,7 @@ public class World extends Canvas implements Runnable  {
 		_totalStartingCreatures = creatures.size();
 		
 		// You can adjust the overall dimensions of the world by modifying this line
-		_world = new Dimension(400, 400);
+		_world = new Dimension(800, 800);
 
 		// The size of each cell depends on how many creatures we have and the
 		// size of the world.
@@ -106,7 +106,7 @@ public class World extends Canvas implements Runnable  {
 			// the simulation unfold. Note how we have to wrap the sleep()
 			// call in a try/catch block.
 			try {
-				Thread.sleep(250);
+				Thread.sleep(100);
 			} catch (Exception e) {
 
 			}
@@ -144,6 +144,8 @@ public class World extends Canvas implements Runnable  {
 				case Square:
 					context.fillRect(x, y, _cell.width, _cell.height);
 					break;
+				case Arc:
+					context.fillArc(x, y, _cell.width, _cell.height, 0, 90);
 				default:
 					break;
 			}

@@ -31,7 +31,7 @@ public class Game {
 		}
 		
 		// Add some animals to the world
-		for(int i = 0; i < 25; i++) {
+		for(int i = 0; i < 50; i++) {
 			Animal a = new Animal();
 			creatures.add(a);
 		}
@@ -43,9 +43,15 @@ public class Game {
 		}
 
 		// Add some wolves to the world
-		for(int i = 0; i < 1; i++) {
+		for(int i = 0; i < 10; i++) {
 			Wolf w = new Wolf();
 			creatures.add(w);
+		}
+
+		// Add some fairies to the world
+		for(int i = 0; i < 3; i++) {
+			Fairy u = new Fairy();
+			creatures.add(u);
 		}
 		
 		// Create the world
