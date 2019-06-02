@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weatherapp</string>
+    <string name="app_title">Weather App</string>
+    <string name="get_temperature">Get Temperature</string>
+    <string name="get_forecast">Get Forecast</string>
+    <string name="city_input_label">City</string>
+    <string name="city_input_hint">Example: Boise</string>
+</resources>
